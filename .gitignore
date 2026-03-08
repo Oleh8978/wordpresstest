@@ -1,0 +1,32 @@
+# WordPress core
+/wp-admin/
+/wp-includes/
+
+# Ignore uploaded files (images, media)
+wp-content/uploads/
+
+# Ignore cache, backups, upgrade folders
+wp-content/cache/
+wp-content/backups/
+wp-content/upgrade/
+
+# Ignore default plugins/themes you are not customizing
+wp-content/plugins/hello.php
+wp-content/plugins/akismet/
+
+# Keep your custom plugins and themes
+!wp-content/plugins/my-custom-plugin/
+!wp-content/themes/my-custom-theme/
+
+# Sensitive config
+wp-config.php
+.htaccess
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / build tools
+node_modules/
+npm-debug.log
+yarn-error.log
