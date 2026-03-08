@@ -1,7 +1,7 @@
 # Custom LD-JSON Manager
 
 **Version:** 1.0  
-**Author:** Your Name  
+**Author:** Oleh8978 
 **License:** GPLv2 or later  
 
 A lightweight WordPress plugin that allows site administrators to manage **JSON-LD structured data** directly from the admin dashboard. The plugin automatically injects the JSON-LD into the `<head>` section of your site, helping improve SEO and rich results.
