@@ -30,3 +30,7 @@ Thumbs.db
 node_modules/
 npm-debug.log
 yarn-error.log
+
+#custom thema created from starter joints wp
+wp-content/themes/*
+!wp-content/themes/modern-wp-theme/
